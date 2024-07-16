@@ -7,7 +7,7 @@ This repository contains a script demonstrating the use of the Feature Agglomera
  - matplotlib
  - numpy
  - scikit-learn
- - 
+   
 You can install the required libraries using:
 ```bash
 pip install matplotlib numpy scikit-learn
